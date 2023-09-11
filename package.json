@@ -1,0 +1,30 @@
+{
+  "name": "sample-api",
+  "version": "0.0.1",
+  "description": "I'll try to create an API with JWT Auth and something else.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotsmon/sample-api.git"
+  },
+  "keywords": [
+    "sample",
+    "api",
+    "template",
+    "nodejs",
+    "js"
+  ],
+  "author": "lotsmon",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/lotsmon/sample-api/issues"
+  },
+  "homepage": "https://github.com/lotsmon/sample-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
