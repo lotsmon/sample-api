@@ -3,5 +3,6 @@
         "node_modules": true,
         ".gitignore": true,
         ".vscode": true
-    }
+    },
+    "typescript.validate.enable": false,
 }

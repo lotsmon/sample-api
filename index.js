@@ -1,7 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs');
-const router = require('./routers/auth/controller');
 const app = express();
 
 app.use(bodyParser.json());
